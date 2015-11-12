@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3204F8571BF4E15D006CCA95 /* TaskCellTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3204F8561BF4E15D006CCA95 /* TaskCellTests.swift */; };
+		3204F85A1BF4E952006CCA95 /* TaskCellTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3204F8561BF4E15D006CCA95 /* TaskCellTests.swift */; };
 		9B6F9FEC1B27AA4700358E9B /* SectionSplitter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B6F9FEB1B27AA4700358E9B /* SectionSplitter.swift */; };
 		9B6F9FF01B27B12100358E9B /* stock_tasks.json in Resources */ = {isa = PBXBuildFile; fileRef = 9B6F9FEF1B27B12100358E9B /* stock_tasks.json */; };
 		9B6F9FF21B27B7ED00358E9B /* TaskTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B6F9FF11B27B7ED00358E9B /* TaskTableViewCell.swift */; };
@@ -343,7 +343,7 @@
 			files = (
 				9BBB3E4A1B36231C002AF4EF /* ExtensionTests.swift in Sources */,
 				9BBB3E4C1B36278C002AF4EF /* TaskTests.swift in Sources */,
-				3204F8571BF4E15D006CCA95 /* TaskCellTests.swift in Sources */,
+				3204F85A1BF4E952006CCA95 /* TaskCellTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
